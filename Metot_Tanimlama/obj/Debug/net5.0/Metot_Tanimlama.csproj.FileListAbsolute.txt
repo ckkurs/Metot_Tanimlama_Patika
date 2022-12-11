@@ -1,0 +1,16 @@
+C:\Users\Cem\Desktop\C#\Metot_Tanimlama\bin\Debug\net5.0\Metot_Tanimlama.exe
+C:\Users\Cem\Desktop\C#\Metot_Tanimlama\bin\Debug\net5.0\Metot_Tanimlama.deps.json
+C:\Users\Cem\Desktop\C#\Metot_Tanimlama\bin\Debug\net5.0\Metot_Tanimlama.runtimeconfig.json
+C:\Users\Cem\Desktop\C#\Metot_Tanimlama\bin\Debug\net5.0\Metot_Tanimlama.runtimeconfig.dev.json
+C:\Users\Cem\Desktop\C#\Metot_Tanimlama\bin\Debug\net5.0\Metot_Tanimlama.dll
+C:\Users\Cem\Desktop\C#\Metot_Tanimlama\bin\Debug\net5.0\Metot_Tanimlama.pdb
+C:\Users\Cem\Desktop\C#\Metot_Tanimlama\obj\Debug\net5.0\Metot_Tanimlama.csproj.AssemblyReference.cache
+C:\Users\Cem\Desktop\C#\Metot_Tanimlama\obj\Debug\net5.0\Metot_Tanimlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem\Desktop\C#\Metot_Tanimlama\obj\Debug\net5.0\Metot_Tanimlama.AssemblyInfoInputs.cache
+C:\Users\Cem\Desktop\C#\Metot_Tanimlama\obj\Debug\net5.0\Metot_Tanimlama.AssemblyInfo.cs
+C:\Users\Cem\Desktop\C#\Metot_Tanimlama\obj\Debug\net5.0\Metot_Tanimlama.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Desktop\C#\Metot_Tanimlama\obj\Debug\net5.0\Metot_Tanimlama.dll
+C:\Users\Cem\Desktop\C#\Metot_Tanimlama\obj\Debug\net5.0\refint\Metot_Tanimlama.dll
+C:\Users\Cem\Desktop\C#\Metot_Tanimlama\obj\Debug\net5.0\Metot_Tanimlama.pdb
+C:\Users\Cem\Desktop\C#\Metot_Tanimlama\obj\Debug\net5.0\Metot_Tanimlama.genruntimeconfig.cache
+C:\Users\Cem\Desktop\C#\Metot_Tanimlama\obj\Debug\net5.0\ref\Metot_Tanimlama.dll
